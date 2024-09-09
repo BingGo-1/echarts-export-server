@@ -14,8 +14,8 @@
     "dev": "nodemon ./src/index.js"
   },
   "dependencies": {
-    "canvas": "2.7.0",
     "echarts": "5.3.3",
+    "canvas": "2.11.2",
     "pm2": "5.2.0"
   },
   "devDependencies": {
